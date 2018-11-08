@@ -1,78 +1,108 @@
- body{
-	background-color: #A9A9A9;
-
+body {
+  background-color: #A9A9A9;
 }
 
-h1{ 
-	color: #000000;
+h1 {
+  color: #000000;
 }
 
-p{
-	color: #FCFAE1;
+p {
+  color: #FCFAE1;
 }
 
-li{
-
-	color: #000000;
+li {
+  color: #000000;
 }
 
-.etude
-{
-	margin-right: 5%;
-	margin-left: 5%;
-}
-.experience
-{
-	flex-wrap: wrap;
-}
-.titleetude{
-	color: #FFFFFF;
-	background-color: #333333;
-	margin-right: 5%;
-	margin-left: 5%;
-	border: 5px solid white;
- 	font-family: "Verdana", Verdana, serif; 
-}
-.titleexperience{
-	color: #FFFFFF;
-	background-color: #333333;
-	margin-right: 5%;
-	margin-left: 5%;
-	border: 5px solid white;
-	font-family: "Verdana", Verdana, serif; 
-	padding-left: 50;
-
-}
-.enteteother{
-	display: table-cell;
-	text-align: center;
-	width: 33%;
-	vertical-align: middle;
-}
-.entetetitle{
-	display: table-cell;
-	text-align: center;
-	width: 5%;
-	vertical-align: middle;
-}
-.all{
-	border: 5px solid black;
-	vertical-align: middle;
-}
-.infosPerso
-{
-	text-align: center;
-	border: 5px solid black;
-	background-color: white; 
-}
-#pInfosPerso
-{
-	color: #FFFFFF
+.etude {
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
+.experience {
+  flex-wrap: wrap;
 }
 
+.titleetude {
+  color: #FFFFFF;
+  background-color: #333333;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: 5px solid white;
+  font-family: "Verdana", Verdana, serif;
+}
 
+.titleexperience {
+  color: #FFFFFF;
+  background-color: #333333;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: 5px solid white;
+  font-family: "Verdana", Verdana, serif;
+  padding-left: 50;
+}
 
+.enteteother {
+  display: table-cell;
+  text-align: center;
+  width: 33%;
+  vertical-align: middle;
+}
 
+.entetetitle {
+  display: table-cell;
+  text-align: center;
+  width: 5%;
+  vertical-align: middle;
+}
 
+.all {
+  border: 5px solid black;
+  vertical-align: middle;
+}
+
+.infosPerso {
+  width: 47%;
+  text-align: center;
+  border: 5px solid black;
+  background-color: white;
+}
+
+#pInfosPerso {
+  text-align: left;
+  color: #000000;
+  font-size: 24px;
+  padding-left: 30px;
+}
+
+.hobbies {
+  width: 47%;
+  text-align: center;
+  border: 5px solid black;
+  background-color: white;
+}
+
+.allInfo {
+  vertical-align: middle;
+  display: flex;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.separation {
+  width: 6%;
+}
+
+.btn {
+  background-color: #65646B;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=style.css.map */
