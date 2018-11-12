@@ -1,4 +1,4 @@
-function nuit()
+function nuit(sheet)
 {
-	console.log("it works"); 
+	document.getElementById('id').setAttribute('href', sheet)
 }
